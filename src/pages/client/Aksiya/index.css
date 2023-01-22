@@ -1,0 +1,20 @@
+.action{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.aksiya{
+    width: 400px;
+
+}
+.aksiya h3{
+    font-size: 16px;
+}
+.ac-h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman',;
+}

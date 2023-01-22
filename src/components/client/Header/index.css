@@ -1,0 +1,17 @@
+.divc{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.divc input{
+    padding: 9px 15px;
+    margin: 10px 20px;
+}
+.divc button{
+    background-color: blue;
+    padding: 9px 15px;
+    margin: 10px 20px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
